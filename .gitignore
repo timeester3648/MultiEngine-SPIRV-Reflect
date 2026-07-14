@@ -8,3 +8,9 @@ bazel-SPIRV-Reflect
 bazel-testlogs
 /.vs
 /.vscode
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
